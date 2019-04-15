@@ -10,6 +10,8 @@ Flag is in the format flag{...}. Submit it in the format WPI{...}.
 made by John Faria
 2:128
 
+![redacted-circuit.png](redacted-circuit.png)
+
 ## Solution
 
 Writeup in PowerPoint slides
